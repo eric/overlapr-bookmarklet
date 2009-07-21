@@ -1,6 +1,6 @@
 = Overlapr Bookmarklet
 
-A simple bookmarklet for doing quick lookups on http://overlapr.com/
+A simple bookmarklet for doing quick lookups on http://overlapr.com
 
 It allows for finding overlaps between yourself and other people you browse
 on twitter.
@@ -10,11 +10,12 @@ me have any overlaps.
 
 To install the bookmarklet, drag the following link to your bookmark bar:
 
-<a href="javascript:(function()%7Bvar%20s%20=%20document.createElement('script');%20s.src%20=%20'http://github.com/eric/overlapr-bookmarklet/raw/master/overlapr-bookmarklet.js';%20document.getElementsByTagName('head')%5B0%5D.appendChild(s);%7D)()">Overlapr</a>
+{Overlapr}[javascript:(function()%7Bvar%20s%20=%20document.createElement('script');%20s.src%20=%20'http://github.com/eric/overlapr-bookmarklet/raw/master/overlapr-bookmarklet.js';%20document.getElementsByTagName('head')%5B0%5D.appendChild(s);%7D)()]
 
 = Author
 
 Create by Eric Lindvall <eric@5stops.com>
 
 http://twitter.com/eric
+
 http://github.com/eric
